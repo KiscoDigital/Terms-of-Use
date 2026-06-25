@@ -1,1 +1,27 @@
+GHOST LANE PRIVACY POLICY
 
+Updated on June 25th, 2026
+
+1. DATA COLLECTION
+Ghost Lane collects minimal data to facilitate gameplay. This includes: \n• Anonymous User ID (Firebase UID)\n• High scores and run duration\n• Movement path data (for the ghost mechanic)\n• Real-time X/Y coordinates during active play.
+
+2. GHOST MECHANIC & SOCIAL DATA
+Your path data is uploaded to our secure servers to generate "Soulmate" rivals for other players. This data is associated with your anonymous UID or a display name you choose. No real-world identity is linked unless you provide it.
+
+3. LIVE MULTIPLAYER
+During active runs, your position and score are broadcasted to other active players to show live green ghosts. This data is temporary and is deleted from our "live_runs" collection as soon as you exit the game or remain inactive.
+
+4. THIRD-PARTY SERVICES
+We use Google Firebase for authentication, database (Firestore), and analytics. Please refer to Google\'s Privacy Policy for how they handle infrastructure data.
+
+5. DATA DELETION
+You have the right to delete your data at any time. We provide a functional "Erase All Data" feature within the Support Portal that permanently wipes your profile, scores, and movement history from our servers. Note that clearing your app cache or uninstalling may also sever access to your identity signal. 
+
+To delete your information collected
+a. Go Ghost Lane app.
+b. Open privacy policy link at the bottom of the app
+c. Click 'GO TO SUPPORT PORTAL' and follow instructions to delete your profile as well as all related information.
+d. Note: You will be automatically logout and to login you will need to add a new profile.
+
+6. CHILDREN'S PRIVACY
+Ghost Lane does not knowingly collect personally identifiable information from children under 13. We are a survival runner focused on skill-based echoes.
